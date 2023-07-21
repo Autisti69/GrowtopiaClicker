@@ -1,0 +1,12 @@
+C:\Users\autis\Documents\projektus\GrowtopiaClicker\GrowtopiaClicker\bin\Debug\GrowtopiaClicker.exe.config
+C:\Users\autis\Documents\projektus\GrowtopiaClicker\GrowtopiaClicker\bin\Debug\GrowtopiaClicker.exe
+C:\Users\autis\Documents\projektus\GrowtopiaClicker\GrowtopiaClicker\bin\Debug\GrowtopiaClicker.pdb
+C:\Users\autis\Documents\projektus\GrowtopiaClicker\GrowtopiaClicker\obj\Debug\GrowtopiaClicker.csproj.AssemblyReference.cache
+C:\Users\autis\Documents\projektus\GrowtopiaClicker\GrowtopiaClicker\obj\Debug\GrowtopiaClicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\autis\Documents\projektus\GrowtopiaClicker\GrowtopiaClicker\obj\Debug\GrowtopiaClicker.Form1.resources
+C:\Users\autis\Documents\projektus\GrowtopiaClicker\GrowtopiaClicker\obj\Debug\GrowtopiaClicker.Properties.Resources.resources
+C:\Users\autis\Documents\projektus\GrowtopiaClicker\GrowtopiaClicker\obj\Debug\GrowtopiaClicker.csproj.GenerateResource.cache
+C:\Users\autis\Documents\projektus\GrowtopiaClicker\GrowtopiaClicker\obj\Debug\GrowtopiaClicker.csproj.CoreCompileInputs.cache
+C:\Users\autis\Documents\projektus\GrowtopiaClicker\GrowtopiaClicker\obj\Debug\GrowtopiaClicker.exe
+C:\Users\autis\Documents\projektus\GrowtopiaClicker\GrowtopiaClicker\obj\Debug\GrowtopiaClicker.pdb
+C:\Users\autis\Documents\projektus\GrowtopiaClicker\GrowtopiaClicker\obj\Debug\GrowtopiaClicker.Form2.resources
